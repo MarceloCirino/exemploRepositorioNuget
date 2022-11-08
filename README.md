@@ -1,1 +1,1 @@
-# exemploRepositorioNuget
+# samplenugetpackage
